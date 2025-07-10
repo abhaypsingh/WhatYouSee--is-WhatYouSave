@@ -1,6 +1,6 @@
 # Screen Region OCR Capture
 
-Advanced screen region capture application with real-time OCR processing, DPI-aware precision, and high-quality image capture.
+Advanced screen region capture application with batch OCR processing, DPI-aware precision, and high-quality image capture.
 
 ## Features
 
