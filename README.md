@@ -8,7 +8,7 @@ Advanced screen region capture application with batch OCR processing, DPI-aware 
 - **DPI-Aware Capture**: Handles high-DPI displays with precise coordinate mapping
 - **Test Capture**: Preview captured region before starting continuous capture
 - **High-Quality Screenshots**: Lossless PNG capture with BMP backup for quality reference
-- **Real-time OCR**: Processes captured images with Tesseract OCR in background
+- **Batch OCR**: Processes captured images with Tesseract OCR in background
 - **Optimized Performance**: Non-blocking OCR processing with advanced image preprocessing
 - **Automatic File Management**: Timestamped files with organized directory structure
 - **Visual Feedback**: Screenshot background during selection, coordinate display, size validation
